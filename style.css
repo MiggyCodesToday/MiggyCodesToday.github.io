@@ -1,7 +1,7 @@
 /* Universal Styles */
 * {
   box-sizing: border-box;
-  border: 2px solid red;
+  border: 3px solid red;
 }
 body {
   background-image: url("https://content.codecademy.com/courses/web-101/unit-6/htmlcss1-img_foodlogo.png");
